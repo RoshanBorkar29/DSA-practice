@@ -1,1 +1,0 @@
-self.total_products+=1
